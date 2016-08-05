@@ -67,7 +67,7 @@
   <meta property="fb:app_id" content="{{ site.fb_appid }}">
 
   <title>
-    {% if page.title == "Home" %}
+    {% if page.url == "/" %}
       {{ site.title }} &middot; {{ site.tagline }}
     {% else %}
       {{ page.title }} &middot; {{ site.title }}
