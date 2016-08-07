@@ -1,0 +1,64 @@
+---
+layout: post
+title:  "Les meilleurs caméras sportives"
+date:   2016-01-01 00:00:00
+last_modified_at:  2016-01-01 00:00:00
+excerpt: "Les meilleurs caméras sportives de type GoPro Hero ou Xiaomi Yi, aussi appelées Action Cam, permettent de filmer vos exploits sportifs"
+categories: review
+tags:  action-cam
+image:
+  feature: introactioncam.jpg
+  topPosition: -100px
+bgContrast: dark
+bgGradientOpacity: darker
+syntaxHighlighter: no
+---
+Les caméras sportives de type GoPro Hero ou Xiaomi Yi, aussi appelées Action Cam, permettent de filmer vos exploits sportifs ou tout simplement d'avoir de bons souvenirs. Leurs propriétés principales sont d'être résistantes à l'eau, aux chocs et à la poussière, compacte tout en gardant une qualité d'image fort correcte.
+
+GoPro ont été les premiers à démocratiser le segment, rapidement suivi par d'autres marques xomme Sony ou Xiaomi. GoPro devrait également rapidement sortir la nouvelle version
+
+### Quels sont les points d'attention sur les caméras sportives?
+
+ - L'autonomie
+ - La taille du capteur et l'ouverture de l'optique
+ - Les possibilités de paramétrages et de couplage avec un smartphone
+ - Les normes d'encodage supportées afin d'obtenir des vidéos de petite taille et de bonne qualité
+ - Présence d'une stabilisation optique pour une image sans saccade, donnant un rendu plus professionnel
+ - Possibilité de réaliser des ralentis grace aux capture à plus de 30 images par seconde
+
+| Caméra | Résolution | Points forts | Note | Prix |
+|---|---|---|---|---|
+| GoPro Hero 4 Black|4K/30fps 1080p/120fps 720p/240fps | Excellent capteur dont sa dynamique, excellentes possibilités de ralenti, WiFi | 4,6/5 | €€€€|
+| Xiaomi Yi | 1080p/60fps | Bon capteur Sony, angle de vision de 155°, WiFi | 3,9/5 | €|
+| Sony FDR-X1000V |  4K/24fps, 1080p/240fps, 720p/240fps| GPS, encodage XAVC-S à 100Mbps | 4,3/5 |€€€|
+| Samsung Gear 360 | 4K/30fps | Captation à 360° | Hors catégorie |€€|
+
+
+### La meilleure qualité : GoPro Hero 4 Black
+
+<img class="post_img" src="{{ site.baseurl_posts_img }}goprohero.jpg"/>
+
+GoPro a lancé le segment des caméras sportives et bien qu'ils ne sont plus les seuls sur ce segment, la GoPro Hero 4 Black est aujourd'hui la meilleure en terme de qualité d'image dont une résolution 4K et la possibilité d'enregistrer en 120 images par seconde, fonctionnalités de correction d'image, réglages manuels et connectivité WiFi avec une application Android et iOS très bien pensée. On pourra lui reprocher son manque de stabilisation optique et son prix élevé. (Attention à ne pas la perdre lors de vos exploits sportifs.
+
+### Le meilleur rapport qualité/prix : Xiaomi Yi
+
+<img class="post_img" src="{{ site.baseurl_posts_img }}xiaomiyi.jpg"/>
+
+La Xiaomi suit la stratégie simple des marques chinoises : un prix plancher pour des fonctionnalités équivalentes avec quelques légères concessions sur la plan logiciel. Si la qualité de ses images n'égale pas les GoPro Black, elle suffira pour bon nombre d'utilisations.
+
+### La moyenne : Sony FDR-X1000V
+
+<img class="post_img" src="{{ site.baseurl_posts_img }}sonyfdr.jpg"/>
+
+Une action cam dans les standards, c'est l'une des seules à proposer une stabilisation numérique sur ce type de produit. L'AS200V propose deux débits différents afin de régler le compromis taille / qualité des vidéos, intègre le Wi-Fi, le NFC pour une connection, le GPS pour ceux qui en ont l'utilité et résiste aux éclaboussures sans avoir besoin de boitier additionnel. On lui reprochera son manque d'accessoires et une meilleure autonomie.
+
+### L'originale : Samsung Gear 360
+
+<img class="post_img" src="{{ site.baseurl_posts_img }}samsunggear360.jpg"/>
+
+Commençons tout de suite par son point faible : son application de visualisation, contrôle est uniquement disponible pour les Samsung Galaxy S6, S6 Edge, S6 Edge +, S7, S7 Edge et Galaxy Note 5. Passé le coté impressionnant de la capture sphérique à 360°, la qualité d'image peut laisser à désirer comparée aux autres modèles non 360°. Samsung a toutefois fait un effort considérable concernant son tarif. GoPro et Nikon ont par ailleurs annoncé vouloir entrer sur le marché des caméras 360°.
+
+Conclusion
+----------------
+
+En fonction de vos besoins, nous recommandons la GoPro Hero 4 Black si le prix n'est pas dissuasif pour sa qualité et ses accesoires. La Xiaomi Yi se place seconde et conviendra pour la plupart des usages.
