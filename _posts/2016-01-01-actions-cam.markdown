@@ -15,7 +15,7 @@ syntaxHighlighter: no
 ---
 Les caméras sportives de type GoPro Hero ou Xiaomi Yi, aussi appelées Action Cam, permettent de filmer vos exploits sportifs ou tout simplement d'avoir de bons souvenirs. Leurs propriétés principales sont d'être résistantes à l'eau, aux chocs et à la poussière, compacte tout en gardant une qualité d'image fort correcte.
 
-GoPro ont été les premiers à démocratiser le segment, rapidement suivi par d'autres marques xomme Sony ou Xiaomi. GoPro devrait également rapidement sortir la nouvelle version
+GoPro ont été les premiers à démocratiser le segment, rapidement suivi par d'autres marques xomme Sony ou Xiaomi. GoPro devrait également rapidement sortir la nouvelle version de sa GoPro Hero.
 
 ### Quels sont les points d'attention sur les caméras sportives?
 
@@ -36,29 +36,31 @@ GoPro ont été les premiers à démocratiser le segment, rapidement suivi par d
 
 ### La meilleure qualité : GoPro Hero 4 Black
 
-<img class="post_img" src="{{ site.baseurl_posts_img }}goprohero.jpg"/>
+<div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}goprohero.jpg);"></div>
 
-GoPro a lancé le segment des caméras sportives et bien qu'ils ne sont plus les seuls sur ce segment, la GoPro Hero 4 Black est aujourd'hui la meilleure en terme de qualité d'image dont une résolution 4K et la possibilité d'enregistrer en 120 images par seconde, fonctionnalités de correction d'image, réglages manuels et connectivité WiFi avec une application Android et iOS très bien pensée. On pourra lui reprocher son manque de stabilisation optique et son prix élevé. (Attention à ne pas la perdre lors de vos exploits sportifs.
+
+GoPro a lancé le segment des caméras sportives et bien qu'ils ne sont plus les seuls sur ce segment, la GoPro Hero 4 Black est aujourd'hui la meilleure en terme de qualité d'image dont une résolution 4K et la possibilité d'enregistrer en 120 images par seconde, fonctionnalités de correction d'image, réglages manuels et connectivité WiFi avec une application Android et iOS très bien pensée. On pourra lui reprocher son manque de stabilisation optique et son prix élevé. Attention à ne pas la perdre lors de vos exploits sportifs.
 
 ### Le meilleur rapport qualité/prix : Xiaomi Yi
 
-<img class="post_img" src="{{ site.baseurl_posts_img }}xiaomiyi.jpg"/>
+<div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}xiaomiyi.jpg);"></div>
+
 
 La Xiaomi suit la stratégie simple des marques chinoises : un prix plancher pour des fonctionnalités équivalentes avec quelques légères concessions sur la plan logiciel. Si la qualité de ses images n'égale pas les GoPro Black, elle suffira pour bon nombre d'utilisations.
 
 ### La moyenne : Sony FDR-X1000V
 
-<img class="post_img" src="{{ site.baseurl_posts_img }}sonyfdr.jpg"/>
+<div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}sonyfdr.jpg);"></div>
 
-Une action cam dans les standards, c'est l'une des seules à proposer une stabilisation numérique sur ce type de produit. L'AS200V propose deux débits différents afin de régler le compromis taille / qualité des vidéos, intègre le Wi-Fi, le NFC pour une connection, le GPS pour ceux qui en ont l'utilité et résiste aux éclaboussures sans avoir besoin de boitier additionnel. On lui reprochera son manque d'accessoires et une meilleure autonomie.
+Une action cam dans les standards, c'est l'une des seules à proposer une stabilisation numérique sur ce type de produit. L'AS200V propose deux débits différents afin de régler le compromis taille / qualité des vidéos, intègre le Wi-Fi, le NFC pour une connection, le GPS pour ceux qui en ont l'utilité et résiste aux éclaboussures sans avoir besoin de boitier additionnel. On lui reprochera son manque d'accessoires et une autonomie faiblarde.
 
 ### L'originale : Samsung Gear 360
 
-<img class="post_img" src="{{ site.baseurl_posts_img }}samsunggear360.jpg"/>
+<div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}samsunggear360.jpg);"></div>
 
 Commençons tout de suite par son point faible : son application de visualisation, contrôle est uniquement disponible pour les Samsung Galaxy S6, S6 Edge, S6 Edge +, S7, S7 Edge et Galaxy Note 5. Passé le coté impressionnant de la capture sphérique à 360°, la qualité d'image peut laisser à désirer comparée aux autres modèles non 360°. Samsung a toutefois fait un effort considérable concernant son tarif. GoPro et Nikon ont par ailleurs annoncé vouloir entrer sur le marché des caméras 360°.
 
 Conclusion
 ----------------
 
-En fonction de vos besoins, nous recommandons la GoPro Hero 4 Black si le prix n'est pas dissuasif pour sa qualité et ses accesoires. La Xiaomi Yi se place seconde et conviendra pour la plupart des usages.
+En fonction de vos besoins, nous recommandons la GoPro Hero 4 Black si le prix n'est pas dissuasif pour sa qualité générale et ses accesoires. La Xiaomi Yi se place seconde et conviendra pour la plupart des usages grace à son excellent rapport qualité prix.
