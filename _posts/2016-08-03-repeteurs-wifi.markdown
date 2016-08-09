@@ -13,7 +13,7 @@ bgContrast: dark
 bgGradientOpacity: darker
 syntaxHighlighter: no
 ---
-Les répéteurs Wifi peuvent être d'une grande utilité, afin de couvrir en portée plusieurs étages ou étendre un réseau jusqu'à l'extérieur d'une maison. Nous avons sélectionné pour vous les meilleurs modèles disponibles en 2016.
+Les répéteurs Wifi peuvent être d'une grande utilité, afin de couvrir en portée plusieurs étages ou étendre un réseau jusqu'à l'extérieur d'une maison. Voici notre comparatif des meilleurs modèles disponibles en 2016.
 
 Branchez simplement votre répéteur WiFi dans une prise électrique, appuyez sur le bouton de paramétrage et laissez votre répéteur se synchroniser avec votre routeur (box Internet). Le réseau WiFi capté par la répéteur sera répété et amplifié pour une  meilleure expérience Internet. 
 
@@ -60,7 +60,7 @@ Les modèles suivants ont chacun 1 port ethernet et une compatibilité avec l'ap
 
 
 
-### Le performant : TP-LINK RE450
+### Haut débit & simplicité : TP-LINK RE450
 
 
 <img class="post_img" src="{{ site.baseurl_posts_img }}re450.jpg"/>
@@ -70,7 +70,7 @@ Le TP-LINK RE450 permet un débit théorique maximum de 1750 mbits/s (450 pour l
 
 <a href="https://www.amazon.fr/dp/B010RXXY48" target="_blank">Voir le prix</a>
 
-### Avec prise femelle : Netgear EX3800
+### Prise femelle : Netgear EX3800
 
 <img class="post_img" src="{{ site.baseurl_posts_img }}ex3800.jpg"/>
 
@@ -79,7 +79,7 @@ Point positif, Netgear a équipé ce répéteur de leds qui indique la mise sous
 
 <a href="https://www.amazon.fr/dp/B00WJGPUB2" target="_blank">Voir le prix</a>
 
-### Le rapport qualité/prix : TP-LINK RE200
+### Rapport qualité/prix : TP-LINK RE200
 
 <img class="post_img" src="{{ site.baseurl_posts_img }}re200.jpg"/>
 
