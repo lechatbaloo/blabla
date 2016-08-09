@@ -13,8 +13,8 @@ permalink:           /:title
 # Setup
 #timezone:            your timezone # eg. Asia/Kathmandu
 #locale:              your locale language # eg. en_us
-name:		     'Les-meilleurs.net'
-title:               'Les-meilleurs.net'
+name:		     'meilleurs.net'
+title:               'meilleurs.net'
 tagline:             'comparatifs pour mieux choisir'
 description:         'comparatifs pour mieux choisir'
 url:                 'http://lechatbaloo.github.io'
