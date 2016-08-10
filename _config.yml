@@ -13,11 +13,11 @@ permalink:           /:title
 # Setup
 #timezone:            your timezone # eg. Asia/Kathmandu
 #locale:              your locale language # eg. en_us
-name:		     'meilleurs.net'
-title:               'meilleurs.net'
+name:		     'Meilleurs.net'
+title:               'Meilleurs.net'
 tagline:             'comparatifs pour mieux choisir'
 description:         'comparatifs pour mieux choisir'
-url:                 'http://lechatbaloo.github.io'
+url:                 'http://meilleurs.net'
 #rss:                 rss feed url
 baseurl:             '/'
 baseurl_posts_img:   '/assets/images/posts/'
@@ -28,8 +28,8 @@ baseurl_javascripts: '/assets/javascripts/'
 #disqus:              disqus_shortname # get it on https://disqus.com/admin/
 
 author:
-  name:           	 your name
-  url:            	 your site url
+  name:           	'Meilleurs.net'
+  url:            	'http://meilleurs.net'
 #  facebook:          username
 #  twitter:           username
 #  google_plus:       username
