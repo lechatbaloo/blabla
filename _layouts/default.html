@@ -7,25 +7,13 @@
 
     {% if page.url != '/index.html' %}
       <a class="home_link" href="/">Meilleurs.net</a>
-      
-      {% comment %}
-      <input type="checkbox" class="sidebar-checkbox" id="sidebar-checkbox">
-      {% include sidebar-nav.html %}
-      {% include menu.html %}
-      {% endcomment %}
+
 
     {% endif %}
 
     {{ content }}
 
-    {% comment %}
-    {% if page.url != '/index.html' %}
-      {% include sidebar-toggle.html %}
-    {% endif %}
-    {% endcomment %}
-
     {% if page.url == '/index.html' %}
-      {% include subscribe.html %}
       {% include footer.html %}
     {% endif %}
 
