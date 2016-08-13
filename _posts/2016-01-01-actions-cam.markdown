@@ -28,10 +28,10 @@ GoPro ont été les premiers à démocratiser le segment, rapidement suivi par d
 
 | Caméra | Résolution | Points forts | Note | Prix |
 |---|---|---|---|---|
-| GoPro Hero 4 Black|4K/30fps 1080p/120fps 720p/240fps | Excellent capteur dont sa dynamique, excellentes possibilités de ralenti, WiFi | 4,6/5 | €€€€|
+| <a href="http://www.amazon.fr/GoPro-Adventure-Cam%C3%A9ra-embarqu%C3%A9e-Bluetooth/dp/B00O46894K/ref=as_li_ss_tl?ie=UTF8&qid=1471099502&sr=8-1&keywords=hero+black&linkCode=ll1&tag=meilleurs08-21&linkId=643d35794953ad13dd2d6cb9015f3f85" target="_blank">GoPro Hero 4 Black</a>|4K/30fps 1080p/120fps 720p/240fps | Excellent capteur dont sa dynamique, excellentes possibilités de ralenti, WiFi | 4,6/5 | <a href="http://www.amazon.fr/dp/B00O46894K/" target="_blank">€€€€</a>|
 | Xiaomi Yi | 1080p/60fps | Bon capteur Sony, angle de vision de 155°, WiFi | 3,9/5 | €|
-| Sony FDR-X1000V |  4K/24fps, 1080p/240fps, 720p/240fps| GPS, encodage XAVC-S à 100Mbps | 4,3/5 |€€€|
-| Samsung Gear 360 | 4K/30fps | Captation à 360° | Hors catégorie |€€|
+| <a href="http://www.amazon.fr/Sony-FDR-X1000VR-Action-Stabilis%C3%A9e-Wifi/dp/B00RK7OHPK/ref=as_li_ss_tl?ie=UTF8&qid=1471008021&sr=8-3&keywords=Sony+FDR-X1000V&linkCode=ll1&tag=meilleurs08-21&linkId=95717d3f7cdf640eca97fb7bed0d2ea7">Sony FDR-X1000V</a>|  4K/24fps, 1080p/240fps, 720p/240fps| GPS, encodage XAVC-S à 100Mbps | 4,3/5 |€€€|
+| <a href="http://www.amazon.fr/Samsung-Cam%C3%A9ra-connect%C3%A9e-haute-r%C3%A9solution/dp/B01GCGLCWU/ref=as_li_ss_tl?ie=UTF8&qid=1471008069&sr=8-1&keywords=Samsung+Gear+360&linkCode=ll1&tag=meilleurs08-21&linkId=49df24a74929417040783b2f0099438c">Samsung Gear 360</a> | 4K/30fps | Captation à 360° | Hors catégorie |€€|
 
 
 ### La meilleure qualité : GoPro Hero 4 Black
@@ -41,6 +41,8 @@ GoPro ont été les premiers à démocratiser le segment, rapidement suivi par d
 
 GoPro a lancé le segment des caméras sportives et bien qu'ils ne sont plus les seuls sur ce segment, la GoPro Hero 4 Black est aujourd'hui la meilleure en terme de qualité d'image dont une résolution 4K et la possibilité d'enregistrer en 120 images par seconde, fonctionnalités de correction d'image, réglages manuels et connectivité WiFi avec une application Android et iOS très bien pensée. On pourra lui reprocher son manque de stabilisation optique et son prix élevé. Attention à ne pas la perdre lors de vos exploits sportifs.
 
+<a href="http://www.amazon.fr/GoPro-Adventure-Cam%C3%A9ra-embarqu%C3%A9e-Bluetooth/dp/B00O46894K/ref=as_li_ss_tl?ie=UTF8&qid=1471099502&sr=8-1&keywords=hero+black&linkCode=ll1&tag=meilleurs08-21&linkId=643d35794953ad13dd2d6cb9015f3f85" target="_blank">Voir la GoPro Hero 4 Black sur Amazon</a>
+
 ### Le meilleur rapport qualité/prix : Xiaomi Yi
 
 <div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}xiaomiyi.jpg);"></div>
@@ -48,11 +50,16 @@ GoPro a lancé le segment des caméras sportives et bien qu'ils ne sont plus les
 
 La Xiaomi suit la stratégie simple des marques chinoises : un prix plancher pour des fonctionnalités équivalentes avec quelques légères concessions sur la plan logiciel. Si la qualité de ses images n'égale pas les GoPro Black, elle suffira pour bon nombre d'utilisations.
 
+<a href="http://www.amazon.fr/Xiaomi-Cam%C3%A9ra-Ambarella-Action-Sports/dp/B00Y239FAC/ref=as_li_ss_tl?ie=UTF8&qid=1471007728&sr=8-4&keywords=xiaomi+yi&linkCode=ll1&tag=meilleurs08-21&linkId=8ffad64065387894877c71b3b3f52415
+" target="_blank">Voir la Xiaomi Yi sur Amazon</a>
+
 ### La moyenne : Sony FDR-X1000V
 
 <div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}sonyfdr.jpg);"></div>
 
 Une action cam dans les standards, c'est l'une des seules à proposer une stabilisation numérique sur ce type de produit. L'AS200V propose deux débits différents afin de régler le compromis taille / qualité des vidéos, intègre le Wi-Fi, le NFC pour une connection, le GPS pour ceux qui en ont l'utilité et résiste aux éclaboussures sans avoir besoin de boitier additionnel. On lui reprochera son manque d'accessoires et une autonomie faiblarde.
+
+<a href="http://www.amazon.fr/Sony-FDR-X1000VR-Action-Stabilis%C3%A9e-Wifi/dp/B00RK7OHPK/ref=as_li_ss_tl?ie=UTF8&qid=1471008021&sr=8-3&keywords=Sony+FDR-X1000V&linkCode=ll1&tag=meilleurs08-21&linkId=95717d3f7cdf640eca97fb7bed0d2ea7">Voir la Sony FDR-X1000V sur Amazon</a>
 
 ### L'originale : Samsung Gear 360
 
@@ -60,7 +67,10 @@ Une action cam dans les standards, c'est l'une des seules à proposer une stabil
 
 Commençons tout de suite par son point faible : son application de visualisation, contrôle est uniquement disponible pour les Samsung Galaxy S6, S6 Edge, S6 Edge +, S7, S7 Edge et Galaxy Note 5. Passé le coté impressionnant de la capture sphérique à 360°, la qualité d'image peut laisser à désirer comparée aux autres modèles non 360°. Samsung a toutefois fait un effort considérable concernant son tarif. GoPro et Nikon ont par ailleurs annoncé vouloir entrer sur le marché des caméras 360°.
 
+<a href="http://www.amazon.fr/Samsung-Cam%C3%A9ra-connect%C3%A9e-haute-r%C3%A9solution/dp/B01GCGLCWU/ref=as_li_ss_tl?ie=UTF8&qid=1471008069&sr=8-1&keywords=Samsung+Gear+360&linkCode=ll1&tag=meilleurs08-21&linkId=49df24a74929417040783b2f0099438c">Voir la Samsung Gear 360 sur Amazon</a>
+
 Conclusion
 ----------------
 
-En fonction de vos besoins, nous recommandons la GoPro Hero 4 Black si le prix n'est pas dissuasif pour sa qualité générale et ses accesoires. La Xiaomi Yi se place seconde et conviendra pour la plupart des usages grace à son excellent rapport qualité prix.
+En fonction de vos besoins, nous recommandons la <a href="http://www.amazon.fr/GoPro-Adventure-Cam%C3%A9ra-embarqu%C3%A9e-Bluetooth/dp/B00O46894K/ref=as_li_ss_tl?ie=UTF8&qid=1471099502&sr=8-1&keywords=hero+black&linkCode=ll1&tag=meilleurs08-21&linkId=643d35794953ad13dd2d6cb9015f3f85" target="_blank">GoPro Hero 4 Black</a>si le prix n'est pas dissuasif pour sa qualité générale et ses accesoires. La <a href="http://www.amazon.fr/Xiaomi-Cam%C3%A9ra-Ambarella-Action-Sports/dp/B00Y239FAC/ref=as_li_ss_tl?ie=UTF8&qid=1471007728&sr=8-4&keywords=xiaomi+yi&linkCode=ll1&tag=meilleurs08-21&linkId=8ffad64065387894877c71b3b3f52415
+" target="_blank">Xiaomi Yi</a> se place seconde et conviendra pour la plupart des usages grace à son excellent rapport qualité prix.
