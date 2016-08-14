@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Les meilleurs caméras sportives"
+title:  "Les meilleures caméras sportives / actions cams"
 date:   2016-01-01 00:00:00
 last_modified_at:  2016-01-01 00:00:00
-excerpt: "Les meilleurs caméras sportives de type GoPro Hero ou Xiaomi Yi, aussi appelées Action Cam, permettent de filmer vos exploits sportifs"
+excerpt: "Les caméras sportives ou actions cams de type GoPro permettent de filmer vos exploits sportifs ou vos voyages. Voici notre sélection..."
 categories: review
 tags:  action-cam
 image:

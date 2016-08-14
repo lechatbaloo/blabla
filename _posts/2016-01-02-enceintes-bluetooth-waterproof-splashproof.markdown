@@ -3,9 +3,9 @@ layout: post
 title:  "Les meilleures enceintes Bluetooth waterproof"
 date:   2016-01-01 00:00:00
 last_modified_at:  2016-01-01 00:00:00
-excerpt: "Voici les meilleures enceintes Bluetooth waterproof"
+excerpt: "Les enceintes splashproofs, voir même waterproof peuvent s'avérer très utiles en été au bords d'une piscine par exemple. Voici ..."
 categories: review
-tags:  action-cam
+tags:  bluetooth, speaker
 image:
   feature: bluetoothspeakerwaterproof.jpg
   topPosition: -100px
@@ -14,20 +14,20 @@ bgGradientOpacity: darker
 syntaxHighlighter: no
 ---
 
-Les enceintes portables permettent d'écouter sa musique en toute liberté grâce à leur batterie tout en conservant une notion de convivialité ce qui la rend idéal pour écouter à plusieurs à la piscine, en déplacement, dans toutes les pièces de la maison, en pique-nique, randonnée, en vacances.. ou au bureau.
-Les enceintes disposent d'une entrée jack permettant de directement brancher un appareil audio tel qu'un smartphone, ordinateur ou autre p&ériphérique ne disposant pas de Bluetooth, ou pour économiser la batterie de l'enceinte.
+Les enceintes portables permettent d'écouter sa musique en toute liberté grâce à leur batterie tout en conservant une notion de convivialité ce qui la rend idéal pour écouter à plusieurs à la piscine, en déplacement, en pique-nique .. ou au bureau. 
+La résistance à l'eau au minimum "Splashproof" vous permettra de profiter de votre musique sous la douche ou au bord de la piscine.
+
+Les enceintes disposent d'une entrée jack permettant de directement brancher un appareil audio tel qu'un smartphone, ordinateur ou autre périphérique ne disposant pas de Bluetooth, ou pour économiser la batterie de l'enceinte.
 
 
 ### Quels sont les points d'attention sur ces enceintes ?
 
  - La qualité sonore.
  - L'autonomie.
- - La résistance aux éléments (eau, poussière,..)
+ - La résistance aux éléments (eau, poussière,..) 
  - L'encombrement. Par exemple, la Bose Soundlink Mini qui n'est pas étanche reste très compacte.
  - La connectivité : le Bluetooth a une portée limitée et une qualité inférieur au Wi-Fi mais est bien plus simple à configurer, surtout s'il est aidé du NFC.
  - D'autres fonctionnalités annexes comme un microphone intégré pour répondre aux appels ou participer à des conférences téléphoniques et la synchronisation avec d'autres enceintes identiques (appelée "multiroom") permettant de diffuser le même son sur plusieurs enceintes.
-
-<a href="https://www.amazon.fr/Bose-Enceinte-Bluetooth-SoundLink-Mini/dp/B00X9XD1LK/?tag=meilleurs08-21" target="_blank">€€€€</a>
 
 | Enceinte | Points forts | Note | Prix |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ Les enceintes disposent d'une entrée jack permettant de directement brancher un
 | Bose Soundlink Mini 2 | Hors catégorie car non waterproof, son excellent | 4,6/5 |<a href="https://www.amazon.fr/Bose-Enceinte-Bluetooth-SoundLink-Mini/dp/B00X9XD1LK/?tag=meilleurs08-21" target="_blank">€€€€</a>|
 
 
-### Le meilleur rapport qualité/prix : Ultimate Ears - Boom 2
+### Le rapport qualité/prix : Ultimate Ears - Boom 2
 
 <div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}ueboom2.jpg);"></div>
 
@@ -58,11 +58,11 @@ L'enceinte 'splashproof' de JBL voit son autonomie ainsi que sa construction am�
 <a href="https://www.amazon.fr/JBL-Flip-Enceinte-Portable-Bluetooth/dp/B010RWAIAC/?tag=meilleurs08-21" target="_blank">Voir le prix sur Amazon</a>
 
 
-### La meilleur qualité audio : Bose - SoundLink Mini 2
+### La qualité audio : Bose - SoundLink Mini 2
 
 <div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}bosesoundlinkmini2.jpg);"></div>
 
-Il s'agit de l'enceinte présentant le meilleur rapport qualité sonore pour un encombrement donné. Son autonomie est bonne, ses basses étonnament présentes pour cette taille ainsi que le reste du spectre sonore.
+Il s'agit de l'enceinte présentant la meilleure qualité sonore pour un encombrement donné. Son autonomie est bonne, ses basses étonnament présentes pour cette taille ainsi que le reste du spectre sonore.
 
 Elle n'est cependant pas waterproof, sa portée Bluetooth n'est pas des plus élevée et son rapport qualité prix peut être moins intéressant que d'autres enceintes. Elle est à privilégier si votre recherche s'oriente principalement sur la meilleure qualité audio.
 
@@ -72,4 +72,6 @@ Elle n'est cependant pas waterproof, sa portée Bluetooth n'est pas des plus él
 Conclusion
 ----------------
 
-La <a href="https://www.amazon.fr/Bose-Enceinte-Bluetooth-SoundLink-Mini/dp/B00X9XD1LK/?tag=meilleurs08-21" target="_blank">Bose Soundlink Mini 2</a> est à privilégier si votre le budget le permet et que l'aspect étanche n'est pas important. Dans les autres cas nous recommandons la <a href="http://www.amazon.fr/Enceinte-Bluetooth-UE-BOOM-R%C3%A9sistante/dp/B0141208EA/?tag=meilleurs08-21" target="_blank">UE Boom 2</a> pour son aspect résitant, son autonomie élevée et sa qualité audio qui reste très bonne.
+Nous vous recommandons la <a href="http://www.amazon.fr/Enceinte-Bluetooth-UE-BOOM-R%C3%A9sistante/dp/B0141208EA/?tag=meilleurs08-21" target="_blank">UE Boom 2</a> pour son aspect résitant, son autonomie élevée et sa qualité audio qui reste très bonne. 
+
+Cependant, si l'aspect waterproof/splashproof n'est pas important pour vous, la <a href="https://www.amazon.fr/Bose-Enceinte-Bluetooth-SoundLink-Mini/dp/B00X9XD1LK/?tag=meilleurs08-21" target="_blank">Bose Soundlink Mini 2</a> est à privilégier si votre le budget le permet, pour son excellente qualité audio.
