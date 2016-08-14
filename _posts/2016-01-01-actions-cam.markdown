@@ -15,7 +15,7 @@ syntaxHighlighter: no
 ---
 Les caméras sportives de type GoPro Hero ou Xiaomi Yi, aussi appelées Action Cam, permettent de filmer vos exploits sportifs ou tout simplement d'avoir de bons souvenirs. Leurs propriétés principales sont d'être résistantes à l'eau, aux chocs et à la poussière, compacte tout en gardant une qualité d'image fort correcte.
 
-GoPro ont été les premiers à démocratiser le segment, rapidement suivi par d'autres marques xomme Sony ou Xiaomi. GoPro devrait également rapidement sortir la nouvelle version de sa GoPro Hero.
+GoPro ont été les premiers à démocratiser le segment, rapidement suivi par d'autres marques comme Sony ou Xiaomi.
 
 ### Quels sont les points d'attention sur les caméras sportives?
 

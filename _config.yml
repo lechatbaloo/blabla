@@ -1,4 +1,3 @@
-
 # Syntax highlighting
 markdown:            redcarpet
 redcarpet:
@@ -13,12 +12,12 @@ permalink:           /:title
 # Setup
 #timezone:            your timezone # eg. Asia/Kathmandu
 #locale:              your locale language # eg. en_us
-name:		     'Les-meilleurs.net'
-title:               'Les-meilleurs.net'
+name:		     'Meilleurs.net'
+title:               'Meilleurs.net'
 tagline:             'comparatifs pour mieux choisir'
-description:         'comparatifs pour mieux choisir'
-url:                 'http://lechatbaloo.github.io'
-#rss:                 rss feed url
+description:         "Site de comparatifs high-tech pour vous aider à mieux choisir avant d'acheter."
+url:                 'http://meilleurs.net'
+
 baseurl:             '/'
 baseurl_posts_img:   '/assets/images/posts/'
 baseurl_featured_img: '/assets/images/hero/'
@@ -28,8 +27,8 @@ baseurl_javascripts: '/assets/javascripts/'
 #disqus:              disqus_shortname # get it on https://disqus.com/admin/
 
 author:
-  name:           	 your name
-  url:            	 your site url
+  name:           	'Meilleurs.net'
+  url:            	'http://meilleurs.net'
 #  facebook:          username
 #  twitter:           username
 #  google_plus:       username
@@ -42,9 +41,8 @@ author:
 #fb_appid:            your facebook app id
 
 # Server
-destination:      	 ./_site
-exclude:          	 [".editorconfig", ".gitignore", "bower.json", "composer.json", "CONTRIBUTING.md", "CNAME", "LICENSE", "Gruntfile.js", "package.json", "node_modules", "README.md", "sass", "haml"]
-#port:             	 9001
+destination:           ./_site
+exclude:               [".editorconfig", ".gitignore", "bower.json", "composer.json", "CONTRIBUTING.md", "CNAME", "LICENSE", "Gruntfile.js", "package.json", "node_modules", "README.md", "sass", "haml"]
 
 defaults:
   -

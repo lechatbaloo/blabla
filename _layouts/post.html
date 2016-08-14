@@ -6,7 +6,7 @@ layout: default
     <div class="section-backgroundImage">
 
       {% if page.image.feature %}
-        <img class="post-featuredImage" src="{{ page.image.feature | prepend: site.baseurl_featured_img }}" style="
+        <img class="post-featuredImage is-loaded" src="{{ page.image.feature | prepend: site.baseurl_featured_img }}" style="
         {% if page.image.topPosition %}
           top:{{ page.image.topPosition }};
         {% endif %}
@@ -52,12 +52,7 @@ layout: default
     </div>
     <hr class="u-clearHr"/>
     <hr class="u-clearHr"/>
-    <!--<hr/>
-    <div class="container container--content">
-      <div class="content-body">
-        {% include comments.html %}
-      </div>
-    </div>-->
+ 
   </section>
   <!--<footer class="postFooter">
     {% if page.previous.url %}
@@ -88,5 +83,3 @@ layout: default
     {% endif %}
   </footer>-->
 </article>
-
-{% include modal.html %}

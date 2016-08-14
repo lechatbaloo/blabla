@@ -6,29 +6,29 @@
   <body>
 
     {% if page.url != '/index.html' %}
-      <a class="home_link" href="/">Les-meilleurs.net</a>
-      
-      {% comment %}
-      <input type="checkbox" class="sidebar-checkbox" id="sidebar-checkbox">
-      {% include sidebar-nav.html %}
-      {% include menu.html %}
-      {% endcomment %}
+      <a class="home_link" href="/">Meilleurs.net</a>
+
 
     {% endif %}
 
     {{ content }}
 
-    {% comment %}
-    {% if page.url != '/index.html' %}
-      {% include sidebar-toggle.html %}
-    {% endif %}
-    {% endcomment %}
-
     {% if page.url == '/index.html' %}
-      {% include subscribe.html %}
       {% include footer.html %}
     {% endif %}
 
     {% include footer-scripts.html %}
   </body>
+
+	<script>
+	  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+	  ga('create', 'UA-82347845-1', 'auto');
+	  ga('send', 'pageview');
+
+	</script>
+
 </html>

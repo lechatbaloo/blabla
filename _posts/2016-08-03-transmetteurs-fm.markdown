@@ -21,9 +21,9 @@ Il suffit de sélectionner la même fréquence libre sur l'autoradio et le trans
 
 | Appareil	| Bluetooth 	| Entrée 3,5  | Ports USB 	| Prix 	|
 |--------------------	|-------------------	|----------------|-----|  ------	|
-| GOgroove FlexSMART X2 | Oui 	|  Oui	| 1 | <a href="http://www.amazon.fr/dp/B003PPGOC0" target="_blank">€€€</a>  |
-| VicTsing FM	| Oui 	|  Oui	| 2 | <a href="http://www.amazon.fr/dp/B00N2TVCO4" target="_blank">€€</a>  |
-| Patuoxun FM	| Non | Oui | Non | <a href="http://www.amazon.fr/dp/B00EWDYWFA" target="_blank">€</a> |
+| GOgroove FlexSMART X2 | Oui 	|  Oui	| 1 | <a href="http://www.amazon.fr/dp/B003PPGOC0?tag=meilleurs08-21" target="_blank">€€€</a>  |
+| VicTsing FM	| Oui 	|  Oui	| 2 | <a href="http://www.amazon.fr/dp/B00N2TVCO4?tag=meilleurs08-21" target="_blank">€€</a>  |
+| Patuoxun FM	| Non | Oui | Non | <a href="http://www.amazon.fr/dp/B00EWDYWFA?tag=meilleurs08-21" target="_blank">€</a> |
 
 
 ###  Le meilleur  :  GOgroove FlexSMART X2
@@ -32,7 +32,7 @@ Il suffit de sélectionner la même fréquence libre sur l'autoradio et le trans
 
 Malgrès son prix un peu plus élevé, le FlexSMART X2 assure un fonctionnement fiable et une qualité audio bonne. Le port USB disponible vous permettra de recharger un smartphone.
 
-<a href="https://www.amazon.fr/dp/B003PPGOC0" target="_blank">Voir le prix</a>
+<a href="https://www.amazon.fr/dp/B003PPGOC0?tag=meilleurs08-21" target="_blank">Voir le prix</a>
 
 ###  Rapport fonctionnalité/prix : VicTsing FM Transmitter
 
@@ -42,7 +42,7 @@ Pour moins de 20€, cet émetteur offre une solution des plus complètes : supp
 
 De plus, cet émetteur vous permet de récevoir des appels vers votre téléphone grâce à son micro integré.
 
-<a href="https://www.amazon.fr/dp/B00N2TVCO4" target="_blank">Voir le prix</a>
+<a href="https://www.amazon.fr/dp/B00N2TVCO4?tag=meilleurs08-21" target="_blank">Voir le prix</a>
 
 ### Le petit-prix : Patuoxun FM
 
@@ -52,9 +52,9 @@ Ce modèle ce démarque par son petit prix (<10€) et sa batterie intégrée: v
 
 Cependant, il vous faudra peut-être jongler avec le volume de l'appareil connecté et le volume du système audio de votre voiture pour trouver le bon compromis de son sans gresillements.
 
-<a href="https://www.amazon.fr/dp/B00EWDYWFA" target="_blank">Voir le prix</a>
+<a href="https://www.amazon.fr/dp/B00EWDYWFA?tag=meilleurs08-21" target="_blank">Voir le prix</a>
 
 Conclusion
 ----------------
 
-Le <a href="https://www.amazon.fr/dp/B003PPGOC0" target="_blank">GOGroove Flexsmart X2</a>, malgrès un prix proche de 50€, assure une expérience sans soucis, avec toutes les fonctionnalités que vous aurez besoin.
+Le <a href="https://www.amazon.fr/dp/B003PPGOC0?tag=meilleurs08-21" target="_blank">GOGroove Flexsmart X2</a>, malgrès un prix proche de 50€, assure une expérience sans soucis, avec toutes les fonctionnalités que vous aurez besoin.
