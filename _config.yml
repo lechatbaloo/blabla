@@ -16,9 +16,9 @@ permalink:           /:title
 name:		     'Meilleurs.net'
 title:               'Meilleurs.net'
 tagline:             'comparatifs pour mieux choisir'
-description:         'comparatifs pour mieux choisir'
+description:         'Site de comparatifs high-tech pour vous aider à mieux choisir avant d'acheter.'
 url:                 'http://meilleurs.net'
-#rss:                 rss feed url
+
 baseurl:             '/'
 baseurl_posts_img:   '/assets/images/posts/'
 baseurl_featured_img: '/assets/images/hero/'
@@ -44,7 +44,6 @@ author:
 # Server
 destination:      	 ./_site
 exclude:          	 [".editorconfig", ".gitignore", "bower.json", "composer.json", "CONTRIBUTING.md", "CNAME", "LICENSE", "Gruntfile.js", "package.json", "node_modules", "README.md", "sass", "haml"]
-#port:             	 9001
 
 defaults:
   -
