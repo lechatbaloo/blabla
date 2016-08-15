@@ -64,7 +64,7 @@ Les modèles suivants ont chacun 1 port ethernet et une compatibilité avec l'ap
 ### Haut débit & simplicité : TP-LINK RE450
 
 
-<img class="post_img" src="{{ site.baseurl_posts_img }}re450.jpg"/>
+<img alt="TP-LINK RE450" class="post_img" src="{{ site.baseurl_posts_img }}re450.jpg"/>
 
 
 Le TP-LINK RE450 permet un débit théorique maximum de 1750 mbits/s (450 pour la bande 2,4Ghz et 1300 pour la bande 1300). Malgrès son prix relativement haut par rapport à ses concurrents, il sait dominer le classement en étant à l'heure du jour et sera mieux vieillir. Le support du WPS lui assure une configuration facile et rapide (pour les routeurs compatibles WPS) et sa LED vous aidera à le positionner de manière optimale.
@@ -73,7 +73,7 @@ Le TP-LINK RE450 permet un débit théorique maximum de 1750 mbits/s (450 pour l
 
 ### Prise femelle : Netgear EX3800
 
-<img class="post_img" src="{{ site.baseurl_posts_img }}ex3800.jpg"/>
+<img alt="Netgear EX3800" class="post_img" src="{{ site.baseurl_posts_img }}ex3800.jpg"/>
 
 Fer de lance de la gamme répéteur de Netgear, le EX3800 possède une prise femelle afin de ne pas condamner un emplacement qui pourrait servir pour un autre appareil.
 Point positif, Netgear a équipé ce répéteur de leds qui indique la mise sous tension, ainsi que la qualité du signal. Netgear fournit également une application ([NETGEAR WiFi Analytics](https://play.google.com/store/apps/details?id=com.netgear.WiFiAnalytics))  permettant de mesurer les interférences environnantes ou encore de mémoriser la puissance du signal WiFi selon les emplacements.
@@ -82,7 +82,7 @@ Point positif, Netgear a équipé ce répéteur de leds qui indique la mise sous
 
 ### Rapport qualité/prix : TP-LINK RE200
 
-<img class="post_img" src="{{ site.baseurl_posts_img }}re200.jpg"/>
+<img alt="TP-LINK RE200" class="post_img" src="{{ site.baseurl_posts_img }}re200.jpg"/>
 
 Le TP-LINK RE200 présente un bon rapport qualité/prix. Le support de la norme 802.11ac lui assure un débit et portée correcte, qui suffira a tous vos besoins d'internet basiques.
 
@@ -90,7 +90,7 @@ Le TP-LINK RE200 présente un bon rapport qualité/prix. Le support de la norme 
 
 ### Le best-seller : Netgear WN3000RP
 
-<img class="post_img" src="{{ site.baseurl_posts_img }}wn3000rp.jpg"/>
+<img alt="Netgear WN3000RP" class="post_img" src="{{ site.baseurl_posts_img }}wn3000rp.jpg"/>
 
 Ce modèle best-seller est devenu un classique dans le monde des répéteurs. Ses antennes orientables et ses indicateurs lumineux vous permeteront d'améliorer manuellement sa portée et donc son fonctionnement.
 
@@ -102,7 +102,7 @@ Pour quelques euros de plus, le [WN3100RP](http://www.amazon.fr/dp/B00E4JUTIG) r
 
 ### Le petit-prix : Netgear WN1000RP
 
-<img class="post_img" src="{{ site.baseurl_posts_img }}wn1000rp.jpg"/>
+<img alt="Netgear WN1000RP" class="post_img" src="{{ site.baseurl_posts_img }}wn1000rp.jpg"/>
 
 Disponible pour moins de 15€, ce modèle d'entrée de gamme et malgrès son débit limité, sait tout de même séduire par sa facilité d'utilisation.  Il s'adressera toutefois à des usages moins régulier et sa portée se veut moins faible que ses concurrents placées plus haut en gamme.
 
