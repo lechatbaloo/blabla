@@ -54,7 +54,6 @@ Cependant, il vous faudra peut-être jongler avec le volume de l'appareil connec
 
 <a href="https://www.amazon.fr/dp/B00EWDYWFA?tag=meilleurs08-21" target="_blank">Voir le prix</a>
 
-Conclusion
-----------------
+### Conclusion
 
 Le <a href="https://www.amazon.fr/dp/B003PPGOC0?tag=meilleurs08-21" target="_blank">GOGroove Flexsmart X2</a>, malgrès un prix proche de 50€, assure une expérience sans soucis, avec toutes les fonctionnalités que vous aurez besoin.

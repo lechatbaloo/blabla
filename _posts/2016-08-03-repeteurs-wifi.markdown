@@ -13,6 +13,7 @@ bgContrast: dark
 bgGradientOpacity: darker
 syntaxHighlighter: no
 ---
+
 Les répéteurs Wifi peuvent être d'une grande utilité, afin de couvrir en portée plusieurs étages ou étendre un réseau jusqu'à l'extérieur d'une maison. Voici notre comparatif des meilleurs modèles disponibles en 2016.
 
 Branchez simplement votre répéteur WiFi dans une prise électrique, appuyez sur le bouton de paramétrage et laissez votre répéteur se synchroniser avec votre routeur (box Internet). Le réseau WiFi capté par la répéteur sera répété et amplifié pour une  meilleure expérience Internet. 
@@ -107,7 +108,6 @@ Disponible pour moins de 15€, ce modèle d'entrée de gamme et malgrès son d�
 
 <a href="https://www.amazon.fr/dp/B008OAMB2I?tag=meilleurs08-21" target="_blank">Voir le prix</a>
 
-Conclusion
-----------------
+### Conclusion
 
 Pour un usage permanent (dans une habitation par exemple),  le [TP-LINK RE450](https://www.amazon.fr/dp/B010RXXY48?tag=meilleurs08-21) , sera se montrer performant pour toutes vos attentes et compatible avec vos routeurs actuels et futurs. En revanche si vous recherchez une solution à bas prix, le [Netgear WN3000RP](https://www.amazon.fr/dp/B00MWNWEIE?tag=meilleurs08-21) vous satisfiera pour vos usages basiques.

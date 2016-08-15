@@ -69,8 +69,7 @@ Elle n'est cependant pas waterproof, sa portée Bluetooth n'est pas des plus él
 <a href="https://www.amazon.fr/Bose-Enceinte-Bluetooth-SoundLink-Mini/dp/B00X9XD1LK/?tag=meilleurs08-21" target="_blank">Voir le prix sur Amazon</a>
 
 
-Conclusion
-----------------
+### Conclusion
 
 Nous vous recommandons la <a href="http://www.amazon.fr/Enceinte-Bluetooth-UE-BOOM-R%C3%A9sistante/dp/B0141208EA/?tag=meilleurs08-21" target="_blank">UE Boom 2</a> pour son aspect résitant, son autonomie élevée et sa qualité audio qui reste très bonne. 
 
