@@ -16,7 +16,7 @@ syntaxHighlighter: no
 
 Les pico projecteurs, aussi appelés projecteurs de poche ou mini projecteurs sont des projecteurs compacts et transportables. Pouvant être équipés de batteries intégrées, ces projecteurs sont parfaits pour être emmenés partout.
 
-Depuis quelques années, ces appareils ne cessent d'évoluer et l'intérêt général autour de ces produits augmente. Des constructeurs de smartphones et tablettes ont même intégrés des pico projecteurs à leur produits à l'image de la Lenovo Yoga Pro 3 ou du Samsung Galaxy Beam.
+Depuis quelques années, ces appareils ne cessent d'évoluer et l'intérêt général autour de ces produits augmente. Des constructeurs de smartphones et tablettes ont même intégrés des pico projecteurs à leur produits à l'image de la <a href="https://www.amazon.fr/dp/B015MOQP02?tag=meilleurs08-21">Lenovo Yoga Pro 3</a> ou du Samsung Galaxy Beam.
 
 | Modèle | Lum. | Contraste  |  Résolution | Batterie | Poids | Prix |
 |-----|-----|-----|------|-----| ----| ----|
@@ -24,13 +24,13 @@ Depuis quelques années, ces appareils ne cessent d'évoluer et l'intérêt gén
 | <a href="https://www.amazon.fr/dp/B002GU37AW?tag=meilleurs08-21" target="_blank">Asus S1</a>  | 200 |  1000:1  | 854 x 480 | Oui | 342g | <a href="https://www.amazon.fr/dp/B002GU37AW?tag=meilleurs08-21" target="_blank">€€</a>  |
 | <a href="https://www.amazon.fr/dp/B00ODV50XY?tag=meilleurs08-21" target="_blank">Philips PPX3414</a>  | 140	|  1000:1 	| 854x480| Oui | 270g | <a href="https://www.amazon.fr/dp/B00ODV50XY?tag=meilleurs08-21" target="_blank">€€</a>  |
 | <a href="https://www.amazon.fr/dp/B00R88ZSLI?tag=meilleurs08-21" target="_blank">Acer K137i</a>  | 700 |  10000:1  | 1280x800 | Non | 510g | <a href="https://www.amazon.fr/dp/B00R88ZSLI?tag=meilleurs08-21" target="_blank">€€€</a>  |
-| <a href="https://www.amazon.fr/dp/B01FJNB36M?tag=meilleurs08-21" target="_blank">Mileagea Pico DLP</a>  | 80 |  1000:1  |  854x480| Oui | 240g | <a href="https://www.amazon.fr/dp/B01FJNB36M?tag=meilleurs08-21" target="_blank">€</a>  |
+| <a href="https://www.amazon.fr/dp/B01FJNB36M?tag=meilleurs08-21" target="_blank">Mileagea Pico</a>  | 80 |  1000:1  |  854x480| Oui | 240g | <a href="https://www.amazon.fr/dp/B01FJNB36M?tag=meilleurs08-21" target="_blank">€</a>  |
 
 ### Que regarder sur un projecteur ?
 
 **La luminosité**
 
-Parmis les critères les plus importants quand il s'agit d'un projecteur, la luminosité (exprimée en lumen) exprime la puissance de la projection. Plus élevée elle sera, plus vous pourrez projeter des images dans une salle éclairée. Au contraire si la luminosité est faible, il sera sans doute préferable de se plonger dans le noir pour profiter de son contenu. 
+Un des critères les plus importants quand il s'agit d'un projecteur, la luminosité (exprimée en lumen) exprime la puissance de la projection. Plus élevée elle sera, plus vous pourrez projeter des images dans une salle éclairée. Au contraire si la luminosité est faible, il sera sans doute préferable de se plonger dans le noir pour profiter de son contenu. 
 
 **La résolution**
 
@@ -46,7 +46,7 @@ En fonctions de vos besoins, certains mini-projecteurs supportent la lecture de 
 
 ### Vivitek Qumi Q6
 
-<img class="img img--fullContainer" src="{{ site.baseurl_posts_img }}qumiq6.jpg"/>
+<img alt="Vivitek Qumi Q6" class="img img--fullContainer" src="{{ site.baseurl_posts_img }}qumiq6.jpg"/>
 
 - Résolution HD pour profiter de ses films en bonne qualité
 - Bonne luminosité et contraste, utilisable en journée
@@ -60,7 +60,7 @@ En fonctions de vos besoins, certains mini-projecteurs supportent la lecture de 
 
 ### Asus S1
 
-<img class="img img--fullContainer" src="{{ site.baseurl_posts_img }}asuss1.jpg"/>
+<img alt="Asus S1" class="img img--fullContainer" src="{{ site.baseurl_posts_img }}asuss1.jpg"/>
 
 - **Meilleur rapport qualité/prix**
 - Batterie de 3h de projections intégrée
@@ -71,7 +71,7 @@ En fonctions de vos besoins, certains mini-projecteurs supportent la lecture de 
 
 ### Philips PicoPix PPX3414
 
-<img class="img img--fullContainer" src="{{ site.baseurl_posts_img }}PPX3414.jpg"/>
+<img alt="Philips PicoPix PPX3414" class="img img--fullContainer" src="{{ site.baseurl_posts_img }}PPX3414.jpg"/>
 
 - Batterie de 2h intégrée
 - Bonne luminosité pour un poids compact
@@ -82,7 +82,7 @@ En fonctions de vos besoins, certains mini-projecteurs supportent la lecture de 
 
 ### Acer K137i
 
-<img class="img img--fullContainer" src="{{ site.baseurl_posts_img }}k137i.jpg"/>
+<img alt="Acer K137i" class="img img--fullContainer" src="{{ site.baseurl_posts_img }}k137i.jpg"/>
 
 - Résolution HD pour profiter de ses films en bonne qualité
 - Bonne luminosité et contraste, utilisable en journée
@@ -93,7 +93,7 @@ En fonctions de vos besoins, certains mini-projecteurs supportent la lecture de 
 
 ### Mileagea Pico DLP
 
-<img class="img img--fullContainer" src="{{ site.baseurl_posts_img }}mileagea.jpg"/>
+<img alt="Mileagea Pico DLP" class="img img--fullContainer" src="{{ site.baseurl_posts_img }}mileagea.jpg"/>
 
 - Faible prix par rapport à ses concurrents
 - Cararactéristiques acceptables pour profiter de son contenu sans trop de lumière
