@@ -18,6 +18,14 @@ Les pico projecteurs, aussi appelés projecteurs de poche ou mini projecteurs so
 
 Depuis quelques années, ces appareils ne cessent d'évoluer et l'intérêt général autour de ces produits augmente. Des constructeurs de smartphones et tablettes ont même intégrés des pico projecteurs à leur produits à l'image de la Lenovo Yoga Pro 3 ou du Samsung Galaxy Beam.
 
+| Modèle | Lum. | Contraste  |  Résolution | Batterie | Poids | Prix |
+|-----|-----|-----|------|-----| ----| ----|
+| <a href="https://www.amazon.fr/dp/B012K7JKL0?tag=meilleurs08-21" target="_blank">Vivitek Q6</a>  | 800	|  30000:1 | 1280×720| Non | 475g | <a href="https://www.amazon.fr/dp/B012K7JKL0?tag=meilleurs08-21" target="_blank">€€€</a>  |
+| <a href="https://www.amazon.fr/dp/B002GU37AW?tag=meilleurs08-21" target="_blank">Asus S1</a>  | 200 |  1000:1  | 854 x 480 | Oui | 342g | <a href="https://www.amazon.fr/dp/B002GU37AW?tag=meilleurs08-21" target="_blank">€€</a>  |
+| <a href="https://www.amazon.fr/dp/B00ODV50XY?tag=meilleurs08-21" target="_blank">Philips PPX3414</a>  | 140	|  1000:1 	| 854x480| Oui | 270g | <a href="https://www.amazon.fr/dp/B00ODV50XY?tag=meilleurs08-21" target="_blank">€€</a>  |
+| <a href="https://www.amazon.fr/dp/B00R88ZSLI?tag=meilleurs08-21" target="_blank">Acer K137i</a>  | 700 |  10000:1  | 1280x800 | Non | 510g | <a href="https://www.amazon.fr/dp/B00R88ZSLI?tag=meilleurs08-21" target="_blank">€€€</a>  |
+| <a href="https://www.amazon.fr/dp/B01FJNB36M?tag=meilleurs08-21" target="_blank">Mileagea Pico DLP</a>  | 80 |  1000:1  |  854x480| Oui | 240g | <a href="https://www.amazon.fr/dp/B01FJNB36M?tag=meilleurs08-21" target="_blank">€</a>  |
+
 ### Que regarder sur un projecteur ?
 
 **La luminosité**
@@ -35,15 +43,6 @@ Le taux de contraste définit la profondeur des noirs de l'image, et par la mêm
 **La connectique**
 
 En fonctions de vos besoins, certains mini-projecteurs supportent la lecture de contenu depuis une carte SD ou une clé USB, en plus d'entrées classiques HDMI. Assurez vous avant d'acheter que votre projecteur sera compatible avec vos appareils.
-
-
-| Modèle | Lum. | Contraste  |  Résolution | Batterie | Poids | Prix |
-|-----|-----|-----|------|-----| ----| ----|
-| <a href="https://www.amazon.fr/dp/B012K7JKL0?tag=meilleurs08-21" target="_blank">Vivitek Q6</a>  | 800	|  30000:1 | 1280×720| Non | 475g | <a href="https://www.amazon.fr/dp/B012K7JKL0?tag=meilleurs08-21" target="_blank">€€€</a>  |
-| <a href="https://www.amazon.fr/dp/B002GU37AW?tag=meilleurs08-21" target="_blank">Asus S1</a>  | 200 |  1000:1  | 854 x 480 | Oui | 342g | <a href="https://www.amazon.fr/dp/B002GU37AW?tag=meilleurs08-21" target="_blank">€€</a>  |
-| <a href="https://www.amazon.fr/dp/B00ODV50XY?tag=meilleurs08-21" target="_blank">Philips PPX3414</a>  | 140	|  1000:1 	| 854x480| Oui | 270g | <a href="https://www.amazon.fr/dp/B00ODV50XY?tag=meilleurs08-21" target="_blank">€€</a>  |
-| <a href="https://www.amazon.fr/dp/B00R88ZSLI?tag=meilleurs08-21" target="_blank">Acer K137i</a>  | 700 |  10000:1  | 1280x800 | Non | 510g | <a href="https://www.amazon.fr/dp/B00R88ZSLI?tag=meilleurs08-21" target="_blank">€€€</a>  |
-| <a href="https://www.amazon.fr/dp/B01FJNB36M?tag=meilleurs08-21" target="_blank">Mileagea Pico DLP</a>  | 80 |  1000:1  |  854x480| Oui | 240g | <a href="https://www.amazon.fr/dp/B01FJNB36M?tag=meilleurs08-21" target="_blank">€</a>  |
 
 ### Vivitek Qumi Q6
 
